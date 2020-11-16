@@ -1,0 +1,7 @@
+.outputDiv{
+    background-color: #c2d3e8;
+    min-width: 100px;
+    min-height: 100px;padding: 19px;
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,11 @@
+.commandBox{    
+    width:370px;
+    display: flex;
+}
+
+.btnRun{
+    float: right;
+    margin-top: 5px;
+    width: 99px;
+}
+
